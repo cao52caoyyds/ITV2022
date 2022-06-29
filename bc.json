@@ -163,6 +163,16 @@
 
 
 ## XPath系列
+{
+      "key": "___xmf哔",
+      "name": "哔嘀",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cao52caoyyds.github.io/ITV2022/MaooXP/bidi.json"
+    },
 {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cao52caoyyds.github.io/ITV2022/MaooXP/duboku.json"},
 {"key":"if101资源","name":"if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cao52caoyyds.github.io/ITV2022/MaooXP/zxzj2.json"},
