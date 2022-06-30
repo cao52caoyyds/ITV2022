@@ -1,7 +1,7 @@
 // 配置地址 --> clan://localhost/TVBox/bc.json
 
 {
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/cao52caoyyds/ITV2022/main/CatTV/CB/bc.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/cao52caoyyds/ITV2022/main/CatTV/CB/0630.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uc3RhdGljYWx5LmNvbS9naC90dmJ3L215dHYvbWFpbi90djg4"]}]}],
 
 "sites":[
